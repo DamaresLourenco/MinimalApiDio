@@ -1,0 +1,21 @@
+# .gitignore for .NET projects
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+.nuget/
+*.nupkg
+/.idea/
+*.db
+*.sqlite
+.DS_Store
+.env
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
